@@ -1,10 +1,10 @@
 import * as deepar from "deepar";
-import Carousel from "./carousel.js";
+// import Carousel from "./carousel.js";
 
 // Log the version. Just in case.
 console.log("Deepar version: " + deepar.version);
 
-// Top-level await is not supported.
+// Top-level await is not support-ed.
 // So we wrap the whole code in an async function that is called immediatly.
 (async function () {
   // Get the element you want to place DeepAR into. DeepAR will inherit its width and height from this and fill it.
@@ -53,15 +53,15 @@ console.log("Deepar version: " + deepar.version);
 
   window.effect = effectList[0];
 
-  const glassesCarousel = new Carousel("carousel");
-  glassesCarousel.onChange = async (value) => {
-    const loadingSpinner = document.getElementById("loading-spinner");
+  // const glassesCarousel = new Carousel("carousel");
+  // glassesCarousel.onChange = async (value) => {
+  //   const loadingSpinner = document.getElementById("loading-spinner");
 
-    if (window.effect !== effectList[value]) {
-      loadingSpinner.style.display = "block";
-      await deepAR.switchEffect(effectList[value]);
-      window.effect = effectList[value];
-    }
-    loadingSpinner.style.display = "none";
-  };
+  //   if (window.effect !== effectList[value]) {
+  //     loadingSpinner.style.display = "block";
+  //     await deepAR.switchEffect(effectList[value]);
+  //     window.effect = effectList[value];
+  //   }
+  //   loadingSpinner.style.display = "none";
+  // };
 })();
