@@ -2,7 +2,7 @@
 
 v1: Both Wristwatch models appear on wrist, and are switchable through the carousel<br>
 v2: Carousel edited to show all custom effects only<br>
-v3: More UI elements wrapped
+v3: More UI elements wrapped <br>
 v4: ?
 
 ## Original AR App demo
