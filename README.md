@@ -1,6 +1,6 @@
 # DeepAR wrist 
 
-v1: Both Wristwatch models appear on wrist, and are switchable through the carousel\n
+v1: Both Wristwatch models appear on wrist, and are switchable through the carousel<br>
 v2: Carousel edited to show all custom effects only\n
 v3: \n
 
