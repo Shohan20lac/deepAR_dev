@@ -1,8 +1,8 @@
 # DeepAR wrist 
 
-v1: Both Wristwatch models appear on wrist, and are switchable through the carousel
-v2: Carousel edited to show all custom effects only
-v3: 
+v1: Both Wristwatch models appear on wrist, and are switchable through the carousel\n
+v2: Carousel edited to show all custom effects only\n
+v3: \n
 
 ## Original AR App demo
 [https://demo.deepar.ai/quickstart-web-js-npm/](https://demo.deepar.ai/quickstart-web-js-npm/)
