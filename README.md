@@ -1,13 +1,14 @@
-# quickstart-web-npm-js
+# DeepAR wrist 
 
-This is a quickstart project for DeepAR Web SDK. It is a minimal example of how to use the SDK.
+v1: Both Wristwatch models appear on wrist, and are switchable through the carousel<br>
+v2: Carousel edited to show all custom effects only<br>
+v3: More UI elements wrapped
+v4: ?
 
-## View the demo
-
+## Original AR App demo
 [https://demo.deepar.ai/quickstart-web-js-npm/](https://demo.deepar.ai/quickstart-web-js-npm/)
 
 ## How to run the project
-
 - Go to https://developer.deepar.ai
   - Sign up
   - Create a project and a Web app
