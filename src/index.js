@@ -4,6 +4,7 @@ import Carousel from "./carousel.js";
 // Log the version. Just in case.
 console.log("Deepar version: " + deepar.version);
 
+
 // Top-level await is not support-ed.
 // So we wrap the whole code in an async function that is called immediatly.
 (async function () {
